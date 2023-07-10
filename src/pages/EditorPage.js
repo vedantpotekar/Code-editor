@@ -92,7 +92,7 @@ const EditorPage = () => {
                     <div className="logo">
                         <img className='logo-img' src="/code-sync.png" alt="logo" />
                     </div>
-                    <h3>Connected</h3>
+                    <h4>Connected users</h4>
                     <div className="clientList">
                         {
                             clients.map((client)=>(

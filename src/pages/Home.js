@@ -64,7 +64,7 @@ const Home = () => {
                 </div>
             </div>
             <footer>
-                <h4>Built with ❤️ by <a href="https://github.com/vedantpotekar">Vedant</a></h4>
+                <h4>Built with ❤️ by <a href="https://www.linkedin.com/in/vedant-potekar-b3a128207/">Vedant</a></h4>
             </footer>
         </div>
     );
