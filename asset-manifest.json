@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/Code-editor/static/css/main.3191d6ab.css",
-    "main.js": "/Code-editor/static/js/main.fa1daf70.js",
-    "static/js/787.4a5f9ec1.chunk.js": "/Code-editor/static/js/787.4a5f9ec1.chunk.js",
-    "index.html": "/Code-editor/index.html",
-    "main.3191d6ab.css.map": "/Code-editor/static/css/main.3191d6ab.css.map",
-    "main.fa1daf70.js.map": "/Code-editor/static/js/main.fa1daf70.js.map",
-    "787.4a5f9ec1.chunk.js.map": "/Code-editor/static/js/787.4a5f9ec1.chunk.js.map"
+    "main.css": "/react-gh-pages/static/css/main.b7a25740.css",
+    "main.js": "/react-gh-pages/static/js/main.1f9a3078.js",
+    "static/js/787.4a5f9ec1.chunk.js": "/react-gh-pages/static/js/787.4a5f9ec1.chunk.js",
+    "index.html": "/react-gh-pages/index.html",
+    "main.b7a25740.css.map": "/react-gh-pages/static/css/main.b7a25740.css.map",
+    "main.1f9a3078.js.map": "/react-gh-pages/static/js/main.1f9a3078.js.map",
+    "787.4a5f9ec1.chunk.js.map": "/react-gh-pages/static/js/787.4a5f9ec1.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.3191d6ab.css",
-    "static/js/main.fa1daf70.js"
+    "static/css/main.b7a25740.css",
+    "static/js/main.1f9a3078.js"
   ]
 }
